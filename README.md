@@ -1,4 +1,4 @@
-# Project-2
+# Project-2 - IPL Analysis (Ms- Excel)
 Based on the IPL Data from 2008 to 2020, analysis has been be made to find -
   1. How toss decision is helpful for different teams –> Matches won by different teams based on decision whether they opted for       
      batting/bowling first?
